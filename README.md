@@ -11,4 +11,6 @@ If you want to watch the video clips, you can click [here](https://www.youtube.c
 3. Material Toolbar
 4. Custom Spinner
 5. Load Image from URL
+6. Sliding Image with ViewPager
+7. Zooming ImageView
 
