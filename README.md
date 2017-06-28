@@ -13,6 +13,14 @@ If you want to watch the video clips, you can click [here](https://www.youtube.c
 5. Load Image from URL
 6. Sliding Image with ViewPager
 7. Zooming ImageView
+8. Advanced Search Bar
+9. Swipe Back Activity
+10. Bottom Sheet Views
+11. Take picture with Camera
+12. Clipboard
+13. ListView Search Function
+14. Play Youtube
+15. Frame Animation
 
 
 
