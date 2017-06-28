@@ -21,6 +21,30 @@ If you want to watch the video clips, you can click [here](https://www.youtube.c
 13. ListView Search Function
 14. Play Youtube
 15. Frame Animation
+16. Multiple Animations
+17. Animation Axis
+18. ViewPager Transformer
+19. Layout Changes Animation
+20. Timer
+21. Stop Watch
+22. Stop Watch Milliseconds
+23. Gesture Overlay View
+24. SQLite Examples
+25. Google Map API
+26. Map Type
+27. User Location
+28. Marker and Shapes
+29. Working with your own DB
+30. Cloud NoSQL
+31. Flags Quiz App
+32. Weather Application
+33. Better Link Movement
+34. Custom font all View
+36. Magic Button
+37. Segmented Button Group
+38. Social Button
+39. Submit Button
+40. Circle Button
 
 
 
