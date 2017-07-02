@@ -1,0 +1,5 @@
+E:\14_Joshua_Git\Android-Tutorial-from-Scratch\Ch031_FlagsQuizApp\ToolCreateQuery\ToolCreateQuery\bin\Debug\ToolCreateQuery.exe.config
+E:\14_Joshua_Git\Android-Tutorial-from-Scratch\Ch031_FlagsQuizApp\ToolCreateQuery\ToolCreateQuery\bin\Debug\ToolCreateQuery.exe
+E:\14_Joshua_Git\Android-Tutorial-from-Scratch\Ch031_FlagsQuizApp\ToolCreateQuery\ToolCreateQuery\bin\Debug\ToolCreateQuery.pdb
+E:\14_Joshua_Git\Android-Tutorial-from-Scratch\Ch031_FlagsQuizApp\ToolCreateQuery\ToolCreateQuery\obj\Debug\ToolCreateQuery.exe
+E:\14_Joshua_Git\Android-Tutorial-from-Scratch\Ch031_FlagsQuizApp\ToolCreateQuery\ToolCreateQuery\obj\Debug\ToolCreateQuery.pdb

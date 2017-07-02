@@ -40,8 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
         imageView.setImageBitmap(bitmap);
 
-        btnProcess.setOnClickListener(
-                new View.OnClickListener() {
+        btnProcess.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
                         TextRecognizer textRecognizer = new TextRecognizer.Builder(getApplicationContext()).build();
