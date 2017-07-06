@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lion.ch036_magicbutton.MainActivity">
+
+    <br.com.bloder.magic.view.MagicButton
+        android:id="@+id/magicButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:magic_button_size="50dp"
+        app:button_icon="@drawable/youtube"
+        app:button_icon_width="25dp"
+        app:button_icon_height="25dp"
+        app:hide_text="Youtube"
+        app:hide_text_size="8sp"
+        app:hide_text_color="@android:color/black"
+        app:icon_button_color="#e94639"
+        app:expandable_area_color="#109d58"/>
+
+</RelativeLayout>
